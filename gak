@@ -1,0 +1,71 @@
+[33mcommit f7808dc000f6817ff01f7252fe5947924ab42dc2[m[33m ([m[1;36mHEAD -> [m[1;32mnew_main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: suraj.mandal <suraj.mandal@diatoz.com>
+Date:   Fri May 7 21:27:03 2021 +0530
+
+    changes for deployment
+
+[33mcommit 52f9e5e160491f610d7fe37180b7f1e5b9527bd6[m
+Author: suraj.mandal <suraj.mandal@diatoz.com>
+Date:   Fri May 7 21:22:20 2021 +0530
+
+    commit gitignore outside
+
+[33mcommit 66ac06051375226199dec95ca9cc59f05b5cb367[m
+Author: suraj.mandal <suraj.mandal@diatoz.com>
+Date:   Fri May 7 20:24:37 2021 +0530
+
+    server file
+
+[33mcommit e52ae63809a6b8e2a636e269b0440b113589a1a2[m
+Author: suraj.mandal <suraj.mandal@diatoz.com>
+Date:   Fri May 7 17:16:15 2021 +0530
+
+    sending mail
+
+[33mcommit 6b720ddca46c3f7d0a3ce84f3da691236f7657c5[m
+Author: suraj.mandal <suraj.mandal@diatoz.com>
+Date:   Fri May 7 17:10:44 2021 +0530
+
+    integeration happened
+
+[33mcommit 862895b7eaeb7d38c9e663dbb916019f8fb036e6[m
+Author: suraj.mandal <suraj.mandal@diatoz.com>
+Date:   Fri May 7 14:49:06 2021 +0530
+
+    Register module
+
+[33mcommit 35cfa54dd5737e8c44e836562fca0eb8aa983197[m
+Author: suraj.mandal <suraj.mandal@diatoz.com>
+Date:   Fri May 7 12:33:02 2021 +0530
+
+    homepage and registration
+
+[33mcommit 1e78e181c9422845f9eb99570938e23de01fafef[m
+Author: suraj.mandal <suraj.mandal@diatoz.com>
+Date:   Fri May 7 11:15:58 2021 +0530
+
+    updaating files
+
+[33mcommit 5926957ef73cdfddc11bbaea3d0e414045a08bbc[m
+Author: suraj.mandal <suraj.mandal@diatoz.com>
+Date:   Fri May 7 00:08:22 2021 +0530
+
+    filing
+
+[33mcommit b97241ea01e2ddce30832f0e5b9b62dde6aa1370[m
+Author: suraj.mandal <suraj.mandal@diatoz.com>
+Date:   Thu May 6 23:39:51 2021 +0530
+
+    server
+
+[33mcommit 1cd23a64e7060c84b135423656847f0962d13c6e[m
+Author: suraj.mandal <suraj.mandal@diatoz.com>
+Date:   Thu May 6 23:30:12 2021 +0530
+
+    changes in front -end
+
+[33mcommit c347ba34249577f4670a25c82b8475456cea2af9[m
+Author: Suraj Mandal <suraj.mandal@diatoz.com>
+Date:   Thu May 6 23:00:46 2021 +0530
+
+    Initial commit
