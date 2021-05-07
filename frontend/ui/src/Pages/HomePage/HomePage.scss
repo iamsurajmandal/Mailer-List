@@ -1,0 +1,14 @@
+.button-primary {
+    position: relative;
+    top: 300px;
+}
+$body-color:#010101;
+$h1-tag:#f2f2f2;
+body{
+    background-color: $body-color;
+}
+.h1-tag{
+    position: relative;
+    top:200px;
+    color:$h1-tag;
+}

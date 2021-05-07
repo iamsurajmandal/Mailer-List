@@ -13,7 +13,6 @@ module.exports = (app) =>{
                    err:err
                })
            }
-
        })();
    })
 }
