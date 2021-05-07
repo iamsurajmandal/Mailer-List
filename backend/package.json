@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npm install --save-dev nodemon"
+    "dev": "npm install --save-dev nodemon",
+    "build":" cd ../frontend/ui && npm run build",
+    "install-client":"cd ../frontend/ui && npm install",
+    "heroku-postbuild":"npm run install-client && npm run build",
+    "start":"noder server.js"
   },
   "keywords": [],
   "author": "",
