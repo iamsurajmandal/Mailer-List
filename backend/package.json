@@ -9,7 +9,7 @@
     "build":" cd ../frontend/ui && npm run build",
     "install-client":"cd ../frontend/ui && npm install",
     "heroku-postbuild":"npm run install-client && npm run build",
-    "start":"noder server.js"
+    "start":"node server.js"
   },
   "keywords": [],
   "author": "",
