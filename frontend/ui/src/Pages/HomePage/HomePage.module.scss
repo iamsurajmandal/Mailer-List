@@ -1,13 +1,15 @@
-.button-primary {
+.buttonPrimary {
     position: relative;
     top: 300px;
 }
 $body-color:#010101;
 $h1-tag:#f2f2f2;
-body{
+.bodyHP{
     background-color: $body-color;
+    height:1000px;
+    width: 100%;
 }
-.h1-tag{
+.h1Line{
     position: relative;
     top:200px;
     color:$h1-tag;
