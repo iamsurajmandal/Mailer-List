@@ -7,10 +7,20 @@ $border: 1px solid red;
 $bg: red;
 .root{
     max-width: 30%;
-    height:500px;
+    height:200px;
     background-color:$bg;
-    border: 1px solid red;
+    // border: 1px solid red;
     position: relative;
     top: 100px;
     left:500px;
+}
+
+.btnSubmit{
+    position: relative;
+    top:100px;
+    right:100px;
+}
+.emailAdd{
+    position: relative;
+    left:40px;
 }
