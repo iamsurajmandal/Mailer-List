@@ -1,11 +1,23 @@
 import React,{useState} from 'react'
 import { Card, FormControl, Button, InputLabel, Input, FormHelperText } from '@material-ui/core';
 import Styles from "./Register.module.scss"
+import axios from 'axios';
 function Register() {
     const [user, setUser] = useState('')
     const saveData = (event) => {
         event.preventDefault();
         console.log('e',user);
+        let email = {
+            user
+        }
+        console.log('url', process.env.APP_SERVER_URL,email)
+        axios.post(`http://localhost:1800/send-mail`,email).then((response)=>{
+            console.log('response', response)
+
+        })
+        .catch((error)=>{
+            console.log('error', error)
+        })
         setUser('');
     }
    function emailID(event)  {

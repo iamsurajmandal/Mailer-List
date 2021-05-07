@@ -2,6 +2,7 @@ module.exports = (app) =>{
    app.post('/send-mail', (req,res)=>{
        (async()=>{
            try{
+               console.log('sending to mail', req.body,req.query)
            const validation = require('../validations/validators');
            const sendMail = require('../contolllers/sendmail')
            const  sendingMail = sendMail.sendingMail();
